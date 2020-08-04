@@ -1,5 +1,13 @@
 node_modules/
 
+# Uses Yarn 2
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
 # OS filesystem meta sidecars
 thumbs.db
 .DS_Store

@@ -1,0 +1,5 @@
+node_modules/
+
+# OS filesystem meta sidecars
+thumbs.db
+.DS_Store
